@@ -1,18 +1,13 @@
-# Basic Reason Template
+# ReasonNext
 
-Hello! This project allows you to quickly get started with Reason and BuckleScript. If you wanted a more sophisticated version, try the `react` template (`bsb -theme react -init .`).
+Reason wrappers for [Next](https://nextjs.org/).
 
-# Build
+## Project Status
+
+Work in progress, don't use.
+
+## Installation
+
 ```
-npm run build
+npm install --save next react react-dom reason-react @rpominov/reason-next
 ```
-
-# Build + Watch
-
-```
-npm run start
-```
-
-
-# Editor
-If you use `vscode`, Press `Windows + Shift + B` it will build automatically
