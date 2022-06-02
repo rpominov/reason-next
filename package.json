@@ -18,7 +18,7 @@
   "devDependencies": {
     "bs-platform": "^4.0.3",
     "reason-react": "^0.5.3",
-    "next": "^6.1.1"
+    "next": "^12.1.0"
   },
   "dependencies": {
     "@rpominov/bs-preserve-tags": "^0.1.1",
@@ -27,7 +27,7 @@
   },
   "peerDependencies": {
     "reason-react": "^0.5.3",
-    "next": "^6.1.1"
+    "next": "^12.1.0"
   },
   "repository": {
     "type": "git",
